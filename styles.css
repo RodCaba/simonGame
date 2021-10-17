@@ -1,0 +1,46 @@
+body{
+  font-family: 'Orbitron', sans-serif;
+  background-color: #012443;
+  color: #FDFCE5;
+  text-align: center;
+}
+
+.warning{
+  background-color: red;
+}
+
+.title-header{
+  margin-top: 50px;
+  margin-bottom: 80px;
+}
+
+.simon-button{
+  background-color: white;
+  width: 180px;
+  height: 180px;
+  border-style: solid;
+  border-color: black;
+  border-radius: 30%;
+  margin: 5px 5px;
+  border-width: thick;
+}
+
+.row1, .row2{
+  display: inline-flex;
+}
+
+.smn-btn-0, .green{
+  background-color: green;
+}
+
+.smn-btn-1, .red{
+  background-color: red;
+}
+
+.smn-btn-2, .yellow{
+  background-color: yellow;
+}
+
+.smn-btn-3, .blue{
+  background-color: blue;
+}
